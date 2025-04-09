@@ -82,7 +82,7 @@ alignSelf: "flex-end",
 marginRight: spacingX._20,
 },
 footer: {
-backgroundColor: colors.neutral900,
+backgroundColor: colors.green,
 alignItems: "center",
 paddingTop: verticalScale(30),
 paddingBottom: verticalScale(45),

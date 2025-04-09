@@ -12,7 +12,7 @@ const index = () => {
 }, [])
   return (
     <View style={styles.container}>
-      <Image 
+      <Image
         style={styles.logo}
         resizeMode="contain"
         source={require('../assets/images/splashImage.png')}
